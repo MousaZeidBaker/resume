@@ -87,7 +87,7 @@ Spain through Erasmus programme for higher education students
 
 ## Publications
 
-<!-- ### Thesis -->
+### Thesis
 `2017` __Zeid Baker, Mousa__ Generation of Synthetic Images with Generative
 Adversarial Networks.
 
