@@ -1,25 +1,36 @@
 # Mousa Zeid Baker
-Degree in Computer Science and Engineering
+MSc in Computer Science and Engineering
 
 ![](https://raw.githubusercontent.com/MousaZeidBaker/cv/master/images/mousa_profile_image.jpeg)
 
 ## About me
-Extremely motivated to constantly develop my skills, increase my knowledge
-and to grow professionally. I am confident in my ability to deliver creative
+Extremely motivated to constantly develop my skills, increase my knowledge and
+to grow professionally. I'm confident in my ability to deliver creative
 solutions and ideas where I can apply my technical knowledge and expertise. My
-primarily skills lie within the field of cloud computing, DevOps and plain
-software development. I also have interest in artificial intelligence,
-specifically machine learning and deep learning.
+primarily skills lie within the field of Cloud Computing, Infrastructure as code
+(IaC), DevOps and plain software development. I'm also interested in artificial
+intelligence, specifically machine learning and deep learning.
 
 ## Currently
 
-I am an experienced engineer at [Axis Communications](http://www.axis.com/),
-based at the R&D New Business site in Lund, Sweden. My role includes, but is
-not limited to, cloud computing, software development, DevOps and solution
-designing.
+I'm an experienced engineer at [Moodagent](https://moodagent.com/), based in
+Copenhagen, Denmark. My role includes, but is not limited to, designing &
+building a new robust & scalable infrastructure, DevOps and
+solution designing.
 
 ## Experience
-`Nov 2019-` __Axis Communications__ Software Engineer & DevOps Engineer
+`Nov 2020-` __Moodagent__ Machine Learning Infrastructure Engineer
+
+Moodagent is a music streaming service where uniquely personalized playlists are
+provided to each user with the help of machine learning. My main responsibility
+was the infrastructure for the recommendation system, and since Moodagent was
+launching globally we needed to rethink and rebuild a new, robust and scalable
+infrastructure that could handle a global launch. We started to apply
+Infrastructure as Code (IaC) using AWS Cloud Development Kit (CDK) everywhere.
+Other tasks included deploying various docker containers into Kubernetes
+clusters in different regions.
+
+`Nov 2019-Nov 2020` __Axis Communications__ Software Engineer & DevOps Engineer
 
 Part of a new cloud-native project within the field of audio. We started the
 project from scratch and the goal was to develop a multi-site serverless
@@ -84,20 +95,23 @@ Adversarial Networks.
 ## Technical skills
 
 * AWS
+* AWS Cloud Development Kit (CDK)
+* GraphQL
+* RESTful API
+* Docker
+* Kubernetes
+* SQL
+* NoSQL
 * TypeScript
 * NodeJs
 * PHP
 * Python
-* GraphQL
-* RESTful API
-* DynamoDB
-* MySQL
-* Git
-* BASH
 
 ## Areas of expertise
 
 * Cloud Computing
+* Infrastructure as code (IaC)
+* Automation
 * Serverless Computing
 * Software Development
 * APIs
