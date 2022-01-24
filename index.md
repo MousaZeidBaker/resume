@@ -26,27 +26,31 @@ __AWS Lambda Typing__
 
 [aws-lambda-typing](https://github.com/MousaZeidBaker/aws-lambda-typing) is a
 package that provides type hints for AWS Lambda event, context and response
-objects.
+objects in Python.
 
 __PoetryUp__
 
 [poetryup](https://github.com/MousaZeidBaker/poetryup) updates dependencies and
 bumps their version in the `pyproject.toml` file with respect to their version
-constraint.
+constraint. Basically an addition to [poetry](https://python-poetry.org/), a
+tool for dependency management and packaging in Python.
 
 __SecretsManager__
 
 [sm](https://github.com/MousaZeidBaker/sm) is an open-source self-hosted secrets
-manager with zero cost.
+manager with zero cost. Built with [Next.js](https://nextjs.org/) and web app
+hosted in
+[Vercel](https://nextjs.org/docs/deployment#managed-nextjs-with-vercel) while
+secrets are securely stored in AWS Parameter Store.
 
 ## Experience
 `Nov 2019-` __Moodagent__
 Solutions Architect
 
 Solutions Architect for a music streaming service where users are provided with
-uniquely personalized playlists with the help of machine learning. Worked with
-designing and implementing new real-time recommendation services in addition to
-the non-real-time service in order to get even better recommendations. Replaced
+uniquely personalized playlists with help of machine learning. Worked with
+designing and implementing new real-time recommendation services, in addition to
+the non-real-time service, in order to get even better recommendations. Replaced
 legacy solutions with microservice-oriented solutions. Dockerized services and
 deployed containers into Kubernetes clusters in different regions. Introduced
 Trunk-based development and continued to work with deploying services to new
@@ -56,7 +60,7 @@ regions with the plan to eventually run our service globally.
 Infrastructure Engineer
 
 Infrastructure Engineer for a music streaming service where users are provided
-with uniquely personalized playlists with the help of machine learning. My main
+with uniquely personalized playlists with help of machine learning. My main
 responsibility was to build a new robust & scalable infrastructure for our
 recommendation system. We decided to apply Infrastructure as Code (IaC) using
 AWS Cloud Development Kit (CDK) with Python. The architecture included AWS Step
