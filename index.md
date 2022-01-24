@@ -44,7 +44,7 @@ hosted in
 secrets are securely stored in AWS Parameter Store.
 
 ## Experience
-`Nov 2019-` __Moodagent__
+`Nov 2020-` __Moodagent__
 Solutions Architect
 
 Solutions Architect for a music streaming service where users are provided with
