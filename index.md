@@ -17,9 +17,9 @@ problems creatively.
 ## Currently
 
 I'm an experienced Solutions Architect at [Moodagent](https://moodagent.com/),
-based in Copenhagen, Denmark. My role includes, but is not limited to, designing
-& implementing innovative solutions, building robust & scalable infrastructure
-and automating various processes.
+based in Copenhagen, Denmark. My role includes, but is not limited to, reviewing
+architectural design, providing & implementing technical solutions, building
+robust & scalable infrastructure and automating various processes.
 
 ## Projects
 __AWS Lambda Typing__
@@ -49,12 +49,14 @@ Solutions Architect
 
 Solutions Architect for a music streaming service where users are provided with
 uniquely personalized playlists with help of machine learning. Worked with
-designing and implementing new real-time recommendation services, in addition to
+designing and implementing new real-time recommendation service, in addition to
 the non-real-time service, in order to get even better recommendations. Replaced
-legacy solutions with microservice-oriented solutions. Dockerized services and
-deployed containers into Kubernetes clusters in different regions. Introduced
-Trunk-based development and continued to work with deploying services to new
-regions with the plan to eventually run our service globally.
+legacy solutions with microservice-oriented solutions. Collaborated across teams
+to advise, support, and review architectural design, technical solutions and
+technology stack. Introduced Trunk-based development. Dockerized services and
+deployed containers into Kubernetes clusters in different regions. Continued to
+work with deploying services to new regions with the plan to eventually run our
+service globally.
 
 `Nov 2019-Nov 2020` __Moodagent__
 Infrastructure Engineer
