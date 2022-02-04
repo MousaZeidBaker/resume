@@ -21,7 +21,7 @@ based in Copenhagen, Denmark. My role includes, but is not limited to, reviewing
 architectural design, providing & implementing technical solutions, building
 robust & scalable infrastructure and automating various processes.
 
-## Projects
+## Personal Projects
 __AWS Lambda Typing__
 
 [aws-lambda-typing](https://github.com/MousaZeidBaker/aws-lambda-typing) is a
@@ -38,7 +38,7 @@ tool for dependency management and packaging in Python.
 __SecretsManager__
 
 [sm](https://github.com/MousaZeidBaker/sm) is an open-source self-hosted secrets
-manager with zero cost. Built with [Next.js](https://nextjs.org/) and web app
+manager with zero cost. Built with [Next.js](https://nextjs.org/), web app
 hosted in
 [Vercel](https://nextjs.org/docs/deployment#managed-nextjs-with-vercel) while
 secrets are securely stored in AWS Parameter Store.
