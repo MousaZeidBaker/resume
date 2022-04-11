@@ -16,10 +16,11 @@ problems creatively.
 
 ## Currently
 
-I'm an experienced Solutions Architect at [Moodagent](https://moodagent.com/),
-based in Copenhagen, Denmark. My role includes, but is not limited to, reviewing
-architectural design, providing & implementing technical solutions, building
-robust & scalable infrastructure and automating various processes.
+I'm working as the Head of Cloud Infrastructure at
+[Moodagent](https://moodagent.com/), based in Copenhagen, Denmark. My role
+includes, but is not limited to, reviewing architectural design, providing &
+implementing technical solutions, building robust & scalable infrastructure and
+automating various processes.
 
 ## Personal Projects
 __AWS Lambda Typing__
@@ -44,7 +45,16 @@ hosted in
 secrets are securely stored in AWS Parameter Store.
 
 ## Experience
-`Nov 2020-` __Moodagent__
+`Feb 2022-` __Moodagent__
+Head of Cloud Infrastructure
+
+Responsible for planning, defining and executing a strategy for our multi-region
+multi-account cloud infrastructure. Define and implement appropriate data
+protection and security policies, and ensure full compliance with best
+practices. Leading and supporting a team of dedicated and professional cloud
+engineers.
+
+`Nov 2020-Jan 2022` __Moodagent__
 Solutions Architect
 
 Solutions Architect for a music streaming service where users are provided with
@@ -59,9 +69,9 @@ work with deploying services to new regions with the plan to eventually run our
 service globally.
 
 `Nov 2019-Nov 2020` __Moodagent__
-Infrastructure Engineer
+Cloud Engineer
 
-Infrastructure Engineer for a music streaming service where users are provided
+Cloud Engineer for a music streaming service where users are provided
 with uniquely personalized playlists with help of machine learning. My main
 responsibility was to build a new robust & scalable infrastructure for our
 recommendation system. We decided to apply Infrastructure as Code (IaC) using
