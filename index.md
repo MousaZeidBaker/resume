@@ -18,8 +18,8 @@ problems creatively.
 
 I'm working as the Head of Cloud Infrastructure at
 [Moodagent](https://moodagent.com/), based in Copenhagen, Denmark. My role
-includes, but is not limited to, reviewing architectural design, providing &
-implementing technical solutions, building robust & scalable infrastructure and
+includes, but is not limited to, reviewing architectural design, planning &
+executing cloud strategies, building robust & scalable infrastructure and
 automating various processes.
 
 ## Personal Projects
@@ -48,11 +48,10 @@ secrets are securely stored in AWS Parameter Store.
 `Feb 2022-` __Moodagent__
 Head of Cloud Infrastructure
 
-Responsible for planning, defining and executing a strategy for our multi-region
-multi-account cloud infrastructure. Define and implement appropriate data
-protection and security policies, and ensure full compliance with best
-practices. Leading and supporting a team of dedicated and professional cloud
-engineers.
+Responsible for planning, defining and executing strategies for our multi-region
+multi-account cloud setup. Defining and implementing appropriate data protection
+and security policies, and ensuring full compliance with best practices. Leading
+and supporting a team of dedicated and professional cloud engineers.
 
 `Nov 2020-Jan 2022` __Moodagent__
 Solutions Architect
