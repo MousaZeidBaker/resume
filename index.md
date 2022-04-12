@@ -18,9 +18,9 @@ problems creatively.
 
 I'm working as the Head of Cloud Infrastructure at
 [Moodagent](https://moodagent.com/), based in Copenhagen, Denmark. My role
-includes, but is not limited to, reviewing architectural design, planning &
-executing cloud strategies, building robust & scalable infrastructure and
-automating various processes.
+includes, but is not limited to planning & executing cloud strategies, reviewing
+architectural design, building robust & scalable infrastructure and automating
+various processes.
 
 ## Personal Projects
 __AWS Lambda Typing__
