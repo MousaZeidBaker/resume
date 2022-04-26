@@ -18,9 +18,9 @@ problems creatively.
 
 I'm working as the Head of Cloud Infrastructure at
 [Moodagent](https://moodagent.com/), based in Copenhagen, Denmark. My role
-includes, but is not limited to planning & executing cloud strategies, reviewing
-architectural design, building robust & scalable infrastructure and automating
-various processes.
+includes, but is not limited to leading cloud engineers, planning & executing
+cloud strategies, reviewing architectural design, building robust & scalable
+infrastructure and automating various processes.
 
 ## Personal Projects
 __AWS Lambda Typing__
@@ -53,7 +53,7 @@ multi-account cloud setup. Defining and implementing appropriate data protection
 and security policies, and ensuring full compliance with best practices. Leading
 and supporting a team of dedicated and professional cloud engineers.
 
-`Nov 2020-Jan 2022` __Moodagent__
+`Dec 2020-Jan 2022` __Moodagent__
 Solutions Architect
 
 Solutions Architect for a music streaming service where users are provided with
@@ -80,7 +80,7 @@ state-of-the-art CI/CD pipelines to fully automate deployments. Worked with
 expanding our services to new regions. Implemented AWS Step Functions to
 orchestrate flows and automate jobs.
 
-`Nov 2018-Nov 2019` __Axis Communications__
+`Nov 2018-Oct 2019` __Axis Communications__
 Software Engineer & DevOps Engineer
 
 Part of a new cloud-native project within the field of audio. We started the
@@ -95,7 +95,7 @@ application to quickly scale in response to demand. We used The AWS Cloud
 Development Kit (AWS CDK) framework together with TypeScript to model and build
 our cloud infrastructure.
 
-`Jun 2016-Nov 2018` __Axis Communications__
+`Jul 2016-Oct 2018` __Axis Communications__
 Software Engineer
 
 Developer within a cloud-based surveillance solution for security and alarm
