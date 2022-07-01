@@ -36,6 +36,11 @@ bumps their version in the `pyproject.toml` file with respect to their version
 constraint. Basically an addition to [poetry](https://python-poetry.org/), a
 tool for dependency management and packaging in Python.
 
+__Local Kubernetes__
+
+[lk8s](https://github.com/MousaZeidBaker/lk8s) - all you need for a local
+Kubernetes setup in one place.
+
 __SecretsManager__
 
 [sm](https://github.com/MousaZeidBaker/sm) is an open-source self-hosted secrets
