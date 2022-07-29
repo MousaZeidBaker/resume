@@ -6,21 +6,23 @@ MSc in Computer Science and Engineering
 ## About me
 
 I'm motivated to constantly develop my skills, increase my knowledge and to grow
-professionally. I'm confident in my ability to deliver creative solutions where
-I can apply my technical expertise. My primarily skills lie within the field of
-Cloud Computing, Infrastructure as code (IaC), Software Architecture and plain
-Software Development. I'm also interested in Artificial Intelligence,
-specifically Machine Learning and Deep Learning. Through these experiences I
-gained great insight and ability to adapt quickly, think critically and solve
-problems creatively.
+professionally. My primarily skills lie within the field of Cloud Computing,
+Infrastructure as code (IaC), DevOps, Software Architecture and plain Software
+Development. I have a great passion in leading highly skilled engineering teams
+and I believe in leading by example. My ability to communicate and to genuinely
+listen in order to understand have helped me along the way. Through my
+experiences I've gained great insight and ability to adapt quickly, think
+critically and solve problems creatively. Lastly, I would also like to mention
+that I have interest in Artificial Intelligence, specifically Machine Learning
+and Deep Learning.
 
 ## Currently
 
-I'm working as the Head of Cloud Infrastructure at
-[Moodagent](https://moodagent.com/), based in Copenhagen, Denmark. My role
-includes, but is not limited to leading cloud engineers, planning & executing
-cloud strategies, reviewing architectural design, building robust & scalable
-infrastructure and automating various processes.
+I'm working as the Head of Cloud Infrastructure at Moodagent, based in
+Copenhagen, Denmark. My role includes, but is not limited to leading cloud
+engineers, planning & executing cloud strategies, reviewing architectural
+design, building robust & scalable infrastructure and automating various
+processes.
 
 ## Personal Projects
 __AWS Lambda Typing__
@@ -147,16 +149,16 @@ education students
 
 * AWS
 * AWS Cloud Development Kit (CDK)
-* GraphQL
-* RESTful API
+* Terraform
 * Docker
 * Kubernetes
-* SQL
-* NoSQL
 * Python
 * TypeScript
 * NodeJs
-* PHP
+* GraphQL
+* RESTful API
+* SQL
+* NoSQL
 
 ## Areas of expertise
 
