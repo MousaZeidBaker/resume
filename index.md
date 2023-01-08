@@ -5,16 +5,18 @@ MSc in Computer Science and Engineering
 
 ## About me
 
-I'm motivated to constantly develop my skills, increase my knowledge and to grow
-professionally. My primarily skills lie within the field of Cloud Computing,
-Infrastructure as code (IaC), DevOps, Software Architecture and plain Software
-Development. I have a great passion in leading highly skilled engineering teams
-and I believe in leading by example. My ability to communicate and to genuinely
-listen in order to understand have helped me along the way. Through my
-experiences I've gained great insight and ability to adapt quickly, think
-critically and solve problems creatively. Lastly, I would also like to mention
-that I have interest in Artificial Intelligence, specifically Machine Learning
-and Deep Learning.
+I am a passionate technical leader with a strong background in cloud computing,
+containerization, software architecture, and DevOps. I have developed a diverse
+set of technical skills and a deep understanding of various technologies and
+platforms. I have a proven track record of successfully leading highly skilled
+engineering teams to deliver complex, scalable solutions that meet the needs of
+the business. In addition to my technical expertise, I am also an effective
+communicator and problem solver, able to translate technical concepts to a
+non-technical audience and find creative solutions to challenging problems.
+
+I am always looking to learn and grow, and have recently developed an interest
+in Machine Learning and web3 technologies. I am excited to continue my career as
+a technical leader and to explore new opportunities in these emerging fields.
 
 ## Currently
 
@@ -25,18 +27,23 @@ design, building robust & scalable infrastructure and automating various
 processes.
 
 ## Personal Projects
+
+__Blog__
+
+[https://mousabaker.vercel.app/](https://mousabaker.vercel.app/) is my portfolio
+website that I'm currently building where I make blog posts about various of
+topics.
+
 __AWS Lambda Typing__
 
 [aws-lambda-typing](https://github.com/MousaZeidBaker/aws-lambda-typing) is a
 package that provides type hints for AWS Lambda event, context and response
 objects in Python.
 
-__PoetryUp__
+__poetry-plugin-up__
 
-[poetryup](https://github.com/MousaZeidBaker/poetryup) updates dependencies and
-bumps their version in the `pyproject.toml` file with respect to their version
-constraint. Basically an addition to [poetry](https://python-poetry.org/), a
-tool for dependency management and packaging in Python.
+[poetry-plugin-up](https://github.com/MousaZeidBaker/poetry-plugin-up) updates
+dependencies and bumps their versions in `pyproject.toml` file.
 
 __Local Kubernetes__
 
@@ -55,24 +62,22 @@ secrets are securely stored in AWS Parameter Store.
 `Feb 2022-` __Moodagent__
 Head of Cloud Infrastructure
 
-Responsible for planning, defining and executing strategies for our multi-region
-multi-account cloud setup. Defining and implementing appropriate data protection
+Responsible for developing and implementing strategies for our multi-region
+multi-account cloud setup. Defining and enforcing appropriate data protection
 and security policies, and ensuring full compliance with best practices. Leading
-and supporting a team of dedicated and professional cloud engineers.
+and supporting a team of highly experienced cloud engineers.
 
 `Dec 2020-Jan 2022` __Moodagent__
 Solutions Architect
 
-Solutions Architect for a music streaming service where users are provided with
-uniquely personalized playlists with help of machine learning. Worked with
-designing and implementing new real-time recommendation service, in addition to
-the non-real-time service, in order to get even better recommendations. Replaced
-legacy solutions with microservice-oriented solutions. Collaborated across teams
-to advise, support, and review architectural design, technical solutions and
-technology stack. Introduced Trunk-based development. Dockerized services and
-deployed containers into Kubernetes clusters in different regions. Continued to
-work with deploying services to new regions with the plan to eventually run our
-service globally.
+As a Solutions Architect for a music streaming service, I have worked on
+designing and implementing a new real-time recommendation service, in addition
+to the existing non-real-time service, using machine learning to provide
+uniquely personalized playlists for our users. I have also migrated legacy
+solutions to microservice-oriented solutions, collaborated with other teams to
+advise, support, and review architectural design, technical solutions, and
+technology stack. Additionally, I have introduced Trunk-based development,
+dockerized services, deployed containers into Kubernetes clusters.
 
 `Nov 2019-Nov 2020` __Moodagent__
 Cloud Engineer
