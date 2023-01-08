@@ -14,9 +14,9 @@ the business. In addition to my technical expertise, I am also an effective
 communicator and problem solver, able to translate technical concepts to a
 non-technical audience and find creative solutions to challenging problems.
 
-I am always looking to learn and grow, and have recently developed an interest
-in Machine Learning and web3 technologies. I am excited to continue my career as
-a technical leader and to explore new opportunities in these emerging fields.
+I am always looking to learn and grow, and have developed an interest in Machine
+Learning and web3 technologies. I am excited to continue my career as a
+technical leader and to explore new opportunities in these emerging fields.
 
 ## Currently
 
