@@ -28,12 +28,6 @@ processes.
 
 ## Personal Projects
 
-__Blog__
-
-[https://mousabaker.vercel.app/](https://mousabaker.vercel.app/) is my portfolio
-website that I'm currently building where I make blog posts about various of
-topics.
-
 __AWS Lambda Typing__
 
 [aws-lambda-typing](https://github.com/MousaZeidBaker/aws-lambda-typing) is a
@@ -57,6 +51,12 @@ manager with zero cost. Built with [Next.js](https://nextjs.org/), web app
 hosted in
 [Vercel](https://nextjs.org/docs/deployment#managed-nextjs-with-vercel) while
 secrets are securely stored in AWS Parameter Store.
+
+__Blog__
+
+[https://mousabaker.vercel.app/](https://mousabaker.vercel.app/) is my portfolio
+website that I'm currently building where I make blog posts about various of
+topics.
 
 ## Experience
 `Feb 2022-` __Moodagent__
@@ -193,4 +193,3 @@ Available on request.
 ## Contact
 Phone: +46 736 48 64 64  
 Email: mousa.zeid.baker@gmail.com  
-Address: Malmö, Sweden
