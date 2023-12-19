@@ -9,22 +9,27 @@ I am a passionate technical leader with a strong background in cloud computing,
 containerization, software architecture, and DevOps. I have developed a diverse
 set of technical skills and a deep understanding of various technologies and
 platforms. I have a proven track record of successfully leading highly skilled
-engineering teams to deliver complex, scalable solutions that meet the needs of
-the business. In addition to my technical expertise, I am also an effective
+engineering teams to deliver secure and scalable solutions that meet the needs
+of the business. In addition to my technical expertise, I am also an effective
 communicator and problem solver, able to translate technical concepts to a
 non-technical audience and find creative solutions to challenging problems.
 
-I am always looking to learn and grow, and have developed an interest in Machine
-Learning and web3 technologies. I am excited to continue my career as a
-technical leader and to explore new opportunities in these emerging fields.
+I am excited about the ever-evolving potential of technology and am always eager
+to explore new opportunities in this emerging landscape that push the boundaries
+of what is possible.
 
 ## Currently
 
-I'm working as the Head of Cloud Infrastructure at Moodagent, based in
-Copenhagen, Denmark. My role includes, but is not limited to leading cloud
-engineers, planning & executing cloud strategies, reviewing architectural
-design, building robust & scalable infrastructure and automating various
-processes.
+I currently serve as the **Head of Infrastructure** at Moodagent, where I lead a
+skilled team of DevOps engineers and contribute to the strategic vision of our
+organization. My focus involves planing & executing cloud strategies, reviewing
+architecture design, building secure & scalable infrastructure and automating
+various processes to enhance efficiency. My responsibilities extend to
+identifying & mitigating critical incidents, working closely with
+cross-functional teams, ensuring minimal disruption to our services, and
+adopting a proactive approach to continuous improvement. Additionally, I'm
+involved in defining and enforcing appropriate security & data protection
+policies as well as ensuring full compliance with recommended best practices. 
 
 ## Personal Projects
 
@@ -62,10 +67,16 @@ topics.
 `Feb 2022-` __Moodagent__
 Head of Cloud Infrastructure
 
-Responsible for developing and implementing strategies for our multi-region
-multi-account cloud setup. Defining and enforcing appropriate data protection
-and security policies, and ensuring full compliance with best practices. Leading
-and supporting a team of highly experienced cloud engineers.
+I currently serve as the **Head of Infrastructure** at Moodagent, where I lead a
+skilled team of DevOps engineers and contribute to the strategic vision of our
+organization. My focus involves planing & executing cloud strategies, reviewing
+architecture design, building secure & scalable infrastructure and automating
+various processes to enhance efficiency. My responsibilities extend to
+identifying & mitigating critical incidents, working closely with
+cross-functional teams, ensuring minimal disruption to our services, and
+adopting a proactive approach to continuous improvement. Additionally, I'm
+involved in defining and enforcing appropriate security & data protection
+policies as well as ensuring full compliance with recommended best practices. 
 
 `Dec 2020-Jan 2022` __Moodagent__
 Solutions Architect
